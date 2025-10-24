@@ -28,7 +28,7 @@ Parameters:
   VpcId:
     Type: String
     Description: Enter your VPC ID
-    Default: "vpc-0687b2d5a2544ed6f"
+    Default: "vpc-003b9252088292507"
 
   keypair:
     Type: String
